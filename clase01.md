@@ -60,7 +60,7 @@
 ### 🍦 Sabores
 - En el desarrollo de software, los "sabores" pueden referirse a variantes o versiones específicas de un producto. También puede aludir a diferentes enfoques o estilos dentro de la metodología de desarrollo, como el desarrollo ágil, el desarrollo en espiral, entre otros.
 
-## ![Imagen](URL_de_la_imagen)
+![Imgur](https://imgur.com/53AI4oA)
 
 # Metodologia
 Metodologia es el estudio o eleccion de un metodo pertinente o adecuadamente aplicacble a determinado objeto.
