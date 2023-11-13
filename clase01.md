@@ -17,10 +17,6 @@
     2.2. [Equipo(Dev)](#-equipodev)
     2.3. [Sabores](#-sabores)
 
-3. [Imagen](#imagen)
-4. [Enlace](#enlace)
-5. [Ejemplo de Código](#ejemplo-de-código)
-6. [Tabla](#tabla)
 
 ## 🛠️ Metodologia tradicional
 ### 🚀 Proyecto
@@ -60,9 +56,7 @@
 ### 🍦 Sabores
 - En el desarrollo de software, los "sabores" pueden referirse a variantes o versiones específicas de un producto. También puede aludir a diferentes enfoques o estilos dentro de la metodología de desarrollo, como el desarrollo ágil, el desarrollo en espiral, entre otros.
 
-[Imgur](https://imgur.com/53AI4oA)
 ![Imgur](https://i.imgur.com/53AI4oA.png)
-https://i.imgur.com/53AI4oA.png
 
 # Metodologia
 Metodologia es el estudio o eleccion de un metodo pertinente o adecuadamente aplicacble a determinado objeto.
@@ -81,3 +75,4 @@ Software
 - El software no se desgasta con el tiempo.
 - La mayoría de software se construye a medida, en vez de ensamblar componentes.
 - Está creando en base a la lógica puramente.
+![Imgur](https://imgur.com/BKlfJS6.png)

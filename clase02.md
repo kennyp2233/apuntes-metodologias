@@ -36,7 +36,7 @@ Estas metodologías ponen de relevancia que la capacidad de respuesta a un cambi
 #### Mis notas 📝
 Nunca se da claridad en cuanto va a acabar. 
 Se documenta lo que se va a desarrollar en ese momento. En cambio, en la tradicional cada fase se debía diseñar por completo.
-
+![img](https://imgur.com/wTCz4C4.png)
 ### Metodologías híbridas 🔄🚀
 El enfoque híbrido es una alternativa principal para la implementación de proyectos.
 
@@ -50,3 +50,5 @@ Asimismo, orienta a las organizaciones a responder a las necesidades de los clie
   - La planificación es la base para organizar los recursos, coordinar las actividades y controlar los resultados para futuros sprints.
 - Minimización de riesgos.
   - Las interacciones con los usuarios posibilitan la detección de potenciales riesgos. Por ejemplo, durante la ejecución del proyecto, el equipo de trabajo puede detectar posibles amenazas y oportunidades de mejora gracias a la comunicación frecuente con el cliente. 🤝
+
+![img](https://i.imgur.com/zmTprNc.png)
