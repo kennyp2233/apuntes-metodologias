@@ -22,7 +22,6 @@
 5. [Ejemplo de Código](#ejemplo-de-código)
 6. [Tabla](#tabla)
 
-
 ## 🛠️ Metodologia tradicional
 ### 🚀 Proyecto
 - Un proyecto en el contexto de metodologías tradicionales implica la ejecución de un conjunto de tareas planificadas y coordinadas para lograr un objetivo específico. En el desarrollo de software, un proyecto podría incluir la creación de un sistema de información, una aplicación o cualquier producto relacionado con software.
@@ -61,11 +60,11 @@
 ### 🍦 Sabores
 - En el desarrollo de software, los "sabores" pueden referirse a variantes o versiones específicas de un producto. También puede aludir a diferentes enfoques o estilos dentro de la metodología de desarrollo, como el desarrollo ágil, el desarrollo en espiral, entre otros.
 
-![Imagen](URL_de_la_imagen)
+## ![Imagen](URL_de_la_imagen)
 
 # Metodologia
 Metodologia es el estudio o eleccion de un metodo pertinente o adecuadamente aplicacble a determinado objeto.
-No debe llamarse metodologia a cualquier procedimiento, pues se trata de un concepto que en la gran mayoria de los casos resulta demasiado amplio, siendo preferible el vocablo metodo.
+No debe llamarse metodologia a cualquier procedimiento, pues se trata de un concepto que en la gran mayoría de los casos resulta demasiado amplio, siendo preferible el vocablo metodo.
 
 ## Metodologia de desarrollo de software
 Es un conjunto sistemico integrado de tecnicas y metodos que permite abordar de forma homogenea y abierta cada que permite abordar de forma homogenea y abierta cada una de las actividades del ciclo de vida de un proyecto de desarrollo.
@@ -76,6 +75,7 @@ Definen artefactos, roles y actividades, junto con practicas y tecnicas recomend
 Artefacto: es cualquier cosa que se produce al desarrollar software, incluso es el producto final. Ejemplos: Codigo, pruebas; estos son artefactos.
 
 Software
-
-
-
+- El software se desarrolla no se fabrica.
+- El software no se desgasta con el tiempo.
+- La mayoría de software se construye a medida, en vez de ensamblar componentes.
+- Está creando en base a la lógica puramente.
